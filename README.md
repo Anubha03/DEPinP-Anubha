@@ -1,1 +1,3 @@
 # DEPinP-Anubha
+Started with week 1 which covered basics of python. I learnt about different data types, variables and their scope, for and while loops, lambda functions, arrays and their functionalities, classes, how to define init function within it, what instances of a class mean, about iterators, modules like math and json and how they are imported.
+In week 2, there was an introduction to cryptography. I learnt about modular arithmetic and modular exponentiation and practiced problems to understand the method. I learnt about different encryption algorithms-symmetric (3DES, AES and Blowfish) and asymmetric(DH, ECC, RSA), I also learnt about hash functions.
